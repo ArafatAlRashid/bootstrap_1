@@ -1,0 +1,33 @@
+.carousel-inner{
+	height: 90vh;
+}
+
+.images1{
+	box-sizing: border-box;
+	padding: 80px 20px;
+}
+
+.images1 img{
+	width: 300px;
+	height: 300px;
+
+}
+
+.card-body .btn:hover{
+	background: transparent;
+	color: #007BFF;
+}
+
+.mod-vid .btn-primary{
+	margin-top: 25%;
+}
+
+.right a{
+	text-decoration: none;
+	color: #fff;
+	margin-left: 10px;
+}
+
+nav{
+	color: #fff;
+}
